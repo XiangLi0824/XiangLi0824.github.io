@@ -5,6 +5,10 @@ layout: default
 I am learning to create my own page now.
 This is a test.
 
+### Small image
+
+![Octocat](lixiang.png)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
