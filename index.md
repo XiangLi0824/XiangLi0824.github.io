@@ -9,7 +9,13 @@ This is a test.
 
 ![Octocat](lixiang.png)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!--
+
+
+
+作者：CandyBullet
+链接：https://www.imooc.com/article/23400
+来源：慕课网Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -128,3 +134,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
