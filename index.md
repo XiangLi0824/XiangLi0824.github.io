@@ -5,17 +5,14 @@ layout: default
 I am learning to create my own page now.
 This is a test.
 
+我是李翔，我在做自己的个人主页
+
 ### Small image
 
 ![Octocat](lixiang.png)
 
 <!--
-
-
-
-作者：CandyBullet
-链接：https://www.imooc.com/article/23400
-来源：慕课网Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
