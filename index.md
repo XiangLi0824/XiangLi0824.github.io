@@ -16,35 +16,35 @@ layout: default
 
 ### Contact Info
 
-Email: 254089802@sjtu.edu.cn
+- Email: 254089802@sjtu.edu.cn
 
-Tel: +86 175 0639 2627
+- Tel: +86 175 0639 2627
 
 ### Education Background
 
-2017-present, Bachelor, Zhiyuan College, Shanghai Jiao Tong University (Supervisor: Prof. Wei Ku)
+- 2017-present, Bachelor, Zhiyuan College, Shanghai Jiao Tong University (Supervisor: Prof. Wei Ku)
 
-2021-future, PhD, Institute For Advanced Study, Tsinghua University (Supervisor: Prof. Zhengyu Weng)
+- 2021-future, PhD, Institute For Advanced Study, Tsinghua University (Supervisor: Prof. Zhengyu Weng)
 
 ### Research Interest
 
-Strong correlated materials
+- Strong correlated materials
 
-Theory of high-temperature superconductivity
+- Theory of high-temperature superconductivity
 
 ### Awards
 
-2019/10, 2020/10 National Scholarship 
+- 2019/10, 2020/10 National Scholarship 
 
-2019/10, 2020/10 Tang Lixin Scholarship (approximately top 0.3% in all undergraduate students)
+- 2019/10, 2020/10 Tang Lixin Scholarship (approximately top 0.3% in all undergraduate students)
 
-2017/10, 2018/10, 2019/10, 2020/10 Zhiyuan Honors Scholarship, Shanghai Jiao Tong University
+- 2017/10, 2018/10, 2019/10, 2020/10 Zhiyuan Honors Scholarship, Shanghai Jiao Tong University
 
-2019/10 Excellent Student Leader of Shanghai Jiao Tong University
+- 2019/10 Excellent Student Leader of Shanghai Jiao Tong University
 
-2019/05 Excellent League Member of Shanghai Jiao Tong University
+- 2019/05 Excellent League Member of Shanghai Jiao Tong University
 
-2018/10 Three Good Student of Shanghai Jiao Tong University
+- 2018/10 Three Good Student of Shanghai Jiao Tong University
 
 ### Research Experience
 
