@@ -2,20 +2,19 @@
 layout: default
 ---
 
-I am learning to create my own page now.
-This is a test.
-
-我是李翔，我在做自己的个人主页
+中文版
 
 ![Octocat](lixiang.png)
 
-Xiang Li
+**Xiang Li**
 
-**Member of Chinese Communist Party**
+- **Member of Chinese Communist Party**
 
-**4th year undergraduate student in Zhiyuan College, Shanghai Jiao Tong University**
+- **4th year undergraduate student in Zhiyuan College, Shanghai Jiao Tong University**
 
-**Pre-admitted as a PhD student to Institute For Advanced Study, Tsinghua University**
+- **Pre-admitted as a PhD student to Institute For Advanced Study, Tsinghua University**
+
+### Contact Info
 
 Email: 254089802@sjtu.edu.cn
 
@@ -23,9 +22,9 @@ Tel: +86 175 0639 2627
 
 ### Education Background
 
-2017-present Bachelor, Zhiyuan College, Shanghai Jiao Tong University (Supervisor: Prof. Wei Ku)
+2017-present, Bachelor, Zhiyuan College, Shanghai Jiao Tong University (Supervisor: Prof. Wei Ku)
 
-2021-future PhD, Institute For Advanced Study, Tsinghua University (Supervisor: Prof. Zhengyu Weng)
+2021-future, PhD, Institute For Advanced Study, Tsinghua University (Supervisor: Prof. Zhengyu Weng)
 
 ### Research Interest
 
@@ -37,7 +36,7 @@ Theory of high-temperature superconductivity
 
 2019/10, 2020/10 National Scholarship 
 
-2019/10, 2020/10 Tang Lixin Scholarship (approximately top 0.3 \% in all undergraduate students)
+2019/10, 2020/10 Tang Lixin Scholarship (approximately top 0.3 % in all undergraduate students)
 
 2017/10, 2018/10, 2019/10, 2020/10 Zhiyuan Honors Scholarship, Shanghai Jiao Tong University
 
@@ -87,17 +86,19 @@ Undergraduate Research Assistant in Tsung-Dao Lee Institute (Advisor: Prof. Wei 
   
 ### Extracurricular Activities
 
-- 2018/5-present, Shanghai Jiao Tong University Chucai Program Membership (Enrolls 1\% top students a year and encourages leadership and social responsibility)
+- 2018/5-present, Shanghai Jiao Tong University Chucai Program Membership (Enrolls 1% top students a year and encourages leadership and social responsibility)
 	
 - 2018/7, Field research, Da li, Yunnan Province, China   
                                                                        
   - Conducted research on Poverty Alleviation.
+  
   
 - 2018/11 Volunteer for the 2018 Shanghai International Marathon.
   
 - 2019/8, Field research, Shenzhen, Guangdong Province, China  (Team Leader)         
                    
   - Conducted research on Reform and Opening-Up.
+  
   
 - 2019/5-2020/6, Vice-president of student union of Zhiyuan College
 
