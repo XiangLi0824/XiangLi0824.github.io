@@ -36,7 +36,7 @@ Theory of high-temperature superconductivity
 
 2019/10, 2020/10 National Scholarship 
 
-2019/10, 2020/10 Tang Lixin Scholarship (approximately top 0.3 % in all undergraduate students)
+2019/10, 2020/10 Tang Lixin Scholarship (approximately top 0.3% in all undergraduate students)
 
 2017/10, 2018/10, 2019/10, 2020/10 Zhiyuan Honors Scholarship, Shanghai Jiao Tong University
 
@@ -89,16 +89,12 @@ Undergraduate Research Assistant in Tsung-Dao Lee Institute (Advisor: Prof. Wei 
 - 2018/5-present, Shanghai Jiao Tong University Chucai Program Membership (Enrolls 1% top students a year and encourages leadership and social responsibility)
 	
 - 2018/7, Field research, Da li, Yunnan Province, China   
-                                                                       
   - Conducted research on Poverty Alleviation.
-  
   
 - 2018/11 Volunteer for the 2018 Shanghai International Marathon.
   
 - 2019/8, Field research, Shenzhen, Guangdong Province, China  (Team Leader)         
-                   
   - Conducted research on Reform and Opening-Up.
-  
   
 - 2019/5-2020/6, Vice-president of student union of Zhiyuan College
 
